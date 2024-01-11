@@ -1,5 +1,5 @@
 # John_Modica-AI
-![My Facebook Photo](https://github.com/CybernetiX-S3C/John_Modica-AI/blob/main/images/facebook-photo.jpg)
+![My Facebook Photo](https://github.com/CybernetiX-S3C/John_Modica-AI/FB_IMG_1705001979342.jpg)
 
 Click the image to visit my Facebook profile.
 CybernetiX-S3C.net
