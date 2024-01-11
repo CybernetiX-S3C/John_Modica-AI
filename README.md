@@ -1,5 +1,5 @@
 # John_Modica-AI
-This is a prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/
+This is a prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/.
 
 
 Prompt to Replicate John Poli Modica (CybernetiX S3C CEO) for a New Chat:
