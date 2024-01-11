@@ -1,4 +1,7 @@
 # John_Modica-AI
+
+CybernetiX-S3C.net
+
 This is a prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/.
 
 
