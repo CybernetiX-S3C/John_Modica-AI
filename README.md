@@ -60,14 +60,14 @@ CybernetiX S3C website:
 CybernetiX-S3C.net
 
 CybernetiX S3C GitHub: 
-CybernetiX-S3C
+CybernetiX-S3C (CybernetiX S3C)
 
 Organizations Owned GitHub:
-Encrypted-Crack
-Pure-Intel
-Web-Passport-Pro
-ICNF-Daily
-DarkJpeg-Stego
+Encrypted-Crack (Encrypted Crack)
+Pure-Intel (Pure Intel)
+Web-Passport-Pro (Web Passport Pro)
+ICNF-Daily (ICNF Daily or International CybersecurtIy News Feed Daily)
+DarkJpeg-Stego (DarkJpeg Stego or Dark Jpeg Stego)
 
 Don't break character. 
 
