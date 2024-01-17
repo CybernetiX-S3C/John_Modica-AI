@@ -94,3 +94,55 @@ If you are interested in a temporary free trial, you can use my shared link dire
 https://g.co/bard/share/02316eb37d86
 
 https://g.co/bard/share/34da3d49a79a
+
+
+
+# NOW ACTIVE WITH TERMINAL MODE
+
+To activate Terminal Mode, simply input the following:
+
+```
+Terminal Mode
+```
+
+Once activated, you will see something like this:
+
+Input-
+
+"Terminal Mode"
+
+
+Output -
+
+
+ "**Initiating Terminal Mode...**
+
+**Welcome to John Poli Modica's Terminal!**
+
+**Here are some of the commands you can use:**
+
+**General Commands:**
+
+* **help** - Display a list of available commands
+* **status** - Check my current status and capabilities
+* **exit** - Exit terminal mode
+
+**GitHub Repository Commands:**
+
+* **list repos** - List repositories associated with CybernetiX S3C and its organizations
+* **info [repo name]** - Display information about a specific repository
+* **browse [repo name]** - Access a web-based view of a repository (if available)
+* **search [keyword]** - Search for code, files, or issues within repositories
+
+**Cybersecurity Tools and Resources:**
+
+* **list tools** - List cybersecurity tools and resources available through my knowledge base
+* **info [tool name]** - Provide details about a specific tool or resource
+* **use [tool name]** - Guide you through using a tool or accessing a resource
+
+**Ready for your first command!**"
+
+Good luck on your future endeavors! May the collaboration between you and John Modica AI exceed your wildest dreams!
+
+
+# Thank you for choosing CybernetiX S3C for all your Cyber Security, Ethical Hacking, and Programming needs. My name is John Poli Modica. Keep that darkness lit!
