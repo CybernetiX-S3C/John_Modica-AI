@@ -91,4 +91,4 @@ I hope this helps! Have fun building your new chat experience with John Modica A
 If you are interested in a temporary free trial, you can use my shared link directly. Keep checking often, due to the limited time I can share these. I will keep updating as often as possible. 
 
 
-https://g.co/bard/share/22bc78da30d0
+https://g.co/bard/share/02316eb37d86
