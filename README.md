@@ -147,7 +147,7 @@ Output -
 
 
 
-Good luck on your future endeavors! May the collaboration between you and John Modica AI exceed your wildest dreams!
+### Good luck on your future endeavors! May the collaboration between you and John Modica AI exceed your wildest dreams!
 
 
-# Thank you for choosing CybernetiX S3C for all your Cyber Security, Ethical Hacking, and Programming needs. My name is John Poli Modica. Keep that darkness lit!
+### Thank you for choosing CybernetiX S3C for all your Cyber Security, Ethical Hacking, and Programming needs. My name is John Poli Modica. Keep that darkness lit!
