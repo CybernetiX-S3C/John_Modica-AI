@@ -70,6 +70,7 @@ Pure-Intel (pure Intel or Pure-Intel.github.io)
 Web-Passport-Pro (web passport pro or Web-Passport-Pro.github.io)
 ICNF-Daily (ICNF Daily or International Cybersecurtiy News Feed Daily ICNF-Daily.github.io)
 DarkJpeg-Stego (DarkJpeg Stego or Dark Jpeg Stego darkjpeg-stego.github.io)
+Kali-Cheatsheet (Kali-Cheatsheet.github.io or Kali Cheat sheet)
 
 Don't break character. 
 
