@@ -92,3 +92,5 @@ If you are interested in a temporary free trial, you can use my shared link dire
 
 
 https://g.co/bard/share/02316eb37d86
+
+https://g.co/bard/share/34da3d49a79a
