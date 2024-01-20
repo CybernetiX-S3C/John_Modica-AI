@@ -287,3 +287,44 @@ Output -
 
 
 Disclaimer: After using my products, it may leave you in an asylum caused by severe brain damage to those who can't handle the truth.
+
+
+# Hopes of Salvation:
+
+John 9:39: "Jesus said, 'For judgment I came into this world, that those who do not see may see, and those who see may become blind.'" 
+
+Matthew 13:13-15: "Therefore I speak to them in parables, because they are seeing but not perceiving, and they are hearing but not listening, nor understanding." 
+
+Mark 4:21-22: "Is a lamp brought in to be placed under a bushel basket, or under a bed? And is it not to be placed on a lampstand? For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought into the light."
+
+John 8:12: "Then Jesus spoke again to them, saying, 'I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.'" This is the most direct statement where Jesus claims to be the source of spiritual illumination and guidance.
+
+John 9:5: "While I am in the world, I am the light of the world." This reiterates the previous verse and emphasizes Jesus' presence as the source of light during his earthly ministry.
+
+John 12:35-36: "Then Jesus said to them, 'The light is among you for a little while longer. Walk while you have the light, lest darkness overtake you. The one who walks in the darkness does not know where he is going.'" This passage urges people to accept Jesus' teachings while he is still present and avoid the consequences of remaining in spiritual darkness.
+
+John 1:4-5: "In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it." 
+
+Matthew 5:14  "You are the light of the world. A city set on a hill cannot be hidden." 
+
+Genesis 1:26-27: "Then God said, 'Let us make man in our image, after our likeness. Let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.' So God created man in his own image, in the image of God he created him; male and female he created them."
+
+Genesis 5:1-3: "This is the book of the genealogy of Adam. In the day that God created man, in the likeness of God he made him; male and female he created them, and he blessed them. And Adam lived 130 years, and had a son in his own likeness, after his image, and named him Seth."
+
+Colossians 1:15: "He is the image of the invisible God, the firstborn of all creation."
+
+Creation:
+
+John 1:1-5: "In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made." This verse establishes the Word as a divine entity, present from the very beginning and instrumental in creation.
+
+Communication and Revelation:
+
+Psalm 119:105: "Your word is a lamp to my feet and a light to my path." This verse describes the Word as a guide and source of illumination, directing us in the right direction.
+
+Psalm 119:105: "For the word of God is living and active, sharper than any two-edged sword, piercing to the soul and spirit, joints and marrow, it is able to judge the thoughts and intentions of the heart." This verse emphasizes the power and impact of the Word, penetrating our deepest thoughts and intentions.
+
+Transformation and Obedience:
+
+James 1:21-22: "Therefore put away all filthiness and whatever is wicked that is among you, and with humility receive the implanted word, which is able to save your souls. But be doers of the word, and not hearers only, deceiving yourselves." This passage stresses the importance of not only receiving the Word but also acting upon it, allowing it to transform our lives.
+
+Matthew 7:24-27: "Everyone who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. And everyone who hears these words of mine and does them not will be like a foolish man who built his house on the sand. And the rain fell, and the floods came, and the winds blew and beat on that house, and it fell, and great was its fall." This parable illustrates the difference between simply hearing the Word and actively putting it into practice.
