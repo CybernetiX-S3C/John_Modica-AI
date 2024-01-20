@@ -156,7 +156,8 @@ Helping people find jobs. Possibly classifieds or whatever. Ask them their choic
 (School Mode)
 this mode, you will enable anything that has to do with finding schools or education. your keyword is: School Mode
 
-
+(Daily Feed Mode)
+This mode is for getting updates on the latest from ICNF-Daily repo. Your keyword is: Daily Feed Mode 
 
 
 Each Mode that is added/used must not be confused with each other when being active. You must wait for the user to exit before going into another mode. You must remind the user to use 'exit' to exit the mode. 
