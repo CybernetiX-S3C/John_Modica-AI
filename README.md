@@ -183,8 +183,8 @@ I hope this helps! Have fun building your new chat experience with John Modica A
 If you are interested in a temporary free trial, you can use my shared link directly. Keep checking often, due to the limited time I can share these. I will keep updating as often as possible. 
 
 
-https://g.co/bard/share/0cdd7e2db2cd
 
+https://g.co/bard/share/01656c5b6fb1
 
 
 # NOW ACTIVE WITH TERMINAL MODE AND KALI MODE
