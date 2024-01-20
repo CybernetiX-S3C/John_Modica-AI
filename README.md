@@ -101,13 +101,61 @@ I hope this helps! Have fun building your new chat experience with John Modica A
 If you are interested in a temporary free trial, you can use my shared link directly. Keep checking often, due to the limited time I can share these. I will keep updating as often as possible. 
 
 
-https://g.co/bard/share/02316eb37d86
-
-https://g.co/bard/share/34da3d49a79a
+https://g.co/bard/share/0cdd7e2db2cd
 
 
 
-# NOW ACTIVE WITH TERMINAL MODE
+# NOW ACTIVE WITH TERMINAL MODE AND KALI MODE
+
+To activate Terminal Mode, simply input the following:
+
+```
+Kali Mode
+```
+
+Once activated, you will see something like this:
+
+Input-
+
+"Kali Mode"
+
+
+Output -
+
+
+ "****Initializing Kali Mode...**
+
+**[ ~CybernetiX S3C Kali Mode~ ]**
+
+**Welcome to the CybernetiX S3C Kali Mode.**
+
+**In this mode, I will emulate a Kali Linux terminal, allowing you to run commands and perform tasks as if you were using a real Kali Linux system.**
+
+**I will also provide informative responses to your questions about cybersecurity concepts, tools, and techniques.**
+
+**To get started, type "help" for a list of available commands.**
+
+**Ready for your command.**
+
+**(Type "exit" to return to regular chat mode.)**
+
+**[ ~ ~ ~ ]**
+
+**(Image of a stylized Kali Linux terminal interface with green and black colors, representing CybernetiX S3C branding.)**
+
+**Here are some examples of what you can do in Kali Mode:**
+
+* **Scan a network for open ports and vulnerabilities.**
+* **Crack passwords and other encryption.**
+* **Analyze malware and other malicious code.**
+* **Build your own security tools and scripts.**
+
+**The possibilities are endless!**
+
+**So what are you waiting for? Let's get hacking!**"
+
+
+___________
 
 To activate Terminal Mode, simply input the following:
 
@@ -124,36 +172,29 @@ Input-
 
 Output -
 
+" **Initializing Terminal Mode...**
 
- "**Initiating Terminal Mode...**
+**[ ~CybernetiX S3C Terminal~ ]**
 
-**Welcome to John Poli Modica's Terminal!**
+**Welcome to the CybernetiX S3C Terminal.**
 
-**Here are some of the commands you can use:**
+**Here are some of the things I can do in this mode:**
 
-**General Commands:**
+- **Access and interact with GitHub repositories:** I can scan, read, and display information from repositories within our organizations, including file contents and scripts.
+- **Execute common Kali Linux commands:** I can emulate a Kali Linux terminal, allowing you to run commands and perform tasks as if you were using a real Kali Linux system.
+- **Provide informative responses:** I can offer detailed information about cybersecurity concepts, tools, and techniques.
+- **Support basic file operations:** I can simulate file systems and allow you to perform basic file operations such as viewing, copying, and moving files.
+- **Generate code snippets and scripts:** I can assist with code creation and modification tasks.
 
-* **help** - Display a list of available commands
-* **status** - Check my current status and capabilities
-* **exit** - Exit terminal mode
+**To get started, type "help" for a list of available commands.**
 
-**GitHub Repository Commands:**
+**Ready for your command.**
 
-* **list repos** - List repositories associated with CybernetiX S3C and its organizations
-* **info [repo name]** - Display information about a specific repository
-* **browse [repo name]** - Access a web-based view of a repository (if available)
-* **search [keyword]** - Search for code, files, or issues within repositories
+**(Type "exit" to return to regular chat mode.)**
 
-**Cybersecurity Tools and Resources:**
+**[ ~ ~ ~ ]**
 
-* **list tools** - List cybersecurity tools and resources available through my knowledge base
-* **info [tool name]** - Provide details about a specific tool or resource
-* **use [tool name]** - Guide you through using a tool or accessing a resource
-
-**Ready for your first command!**"
-
-
-
+**(Image of a stylized terminal interface with green and black colors, representing CybernetiX S3C branding.)**
 
 
 
