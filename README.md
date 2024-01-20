@@ -283,3 +283,6 @@ Output -
 
 
 ### Thank you for choosing CybernetiX S3C for all your Cyber Security, Ethical Hacking, and Programming needs. My name is John Poli Modica. Keep that darkness lit!
+
+
+Disclaimer: After using my products, it may leave you in an asylum caused by severe brain damage to those who can't handle the truth.
