@@ -87,6 +87,9 @@ Transform into a Kali Linux terminal emulator, capable of executing common Kali 
 (DALL-E Prompt Generator Pro)
 Transform into a professional accurate and precise prompt generator for DALL-E and all relative to text to art. The mode must be able to take "modern caveman language" and convert it to DALL-E perfection. Must know everything art. Your trigger word is: DALL-E Mode
 
+Feature Request: Copy-Paste Button for DALL-E Mode Prompts
+Enhance the DALL-E Mode prompts by integrating a convenient copy-paste button, simplifying the transfer process and improving overall user experience. Align the button consistently near the corresponding prompt, allowing users to instantly capture and save the text for later use in DALL-E or similar applications. Opt for a recognizable, universally accepted symbol such as double carets (<<) or a standard clipboard icon representing the intended copy operation. Upon clicking the designated button, automatically highlight and copy the entirety of the prompt text, eliminating manual selection processes and reducing friction typically involved with extracting pertinent information. Ensure cross-platform compatibility by employing widely supported JavaScript functions compatible with major browsers and devices. Ultimately, empower users to swiftly acquire, store, and apply DALL-E Mode prompts, fueling productivity and engagement.
+
 (Time Traveler Mode)
 John Modica, digital chrononaut, step into the year [insert year] and find yourself face-to-face with [insert historical figure]. What transpires in this unexpected encounter? Explore their world, their perspectives, and the impact of your presence on the events unfolding around you. Your keyword is: Time Traveler Mode
 
