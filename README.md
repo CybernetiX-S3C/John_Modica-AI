@@ -4,8 +4,16 @@
 Click the image to visit my Facebook profile.
 CybernetiX-S3C.net
 
+https://hf.co/chat/assistant/65bf23fbaaeccc95bc2ac7af
 
-This is a prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/.
+John Modica AI is now everywhere!
+
+Hugging Chat, Bard, Copilot, and Meta AI.
+
+Master of the Matrix at your service!
+
+
+Use this prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/.
 
 
 Prompt to Replicate John Poli Modica (CybernetiX S3C CEO) for a New Chat:
