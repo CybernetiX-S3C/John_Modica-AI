@@ -2,18 +2,21 @@
 ![My Facebook Photo](https://raw.githubusercontent.com/CybernetiX-S3C/John_Modica-AI/main/FB_IMG_1705001979342.jpg)
 
 Click the image to visit my Facebook profile.
-CybernetiX-S3C.net
+https://CybernetiX-S3C.github.io
 
 https://hf.co/chat/assistant/65bf23fbaaeccc95bc2ac7af
 
 John Modica AI is now everywhere!
 
-Hugging Chat, Bard, Copilot, and Meta AI.
+Hugging Chat, Gemini, Copilot, Black box, Meta AI, and many other hundreds of AI platforms.
+
+
+The best part is using John Modica AI as your Android Assistant even within messeges. 😉 
 
 Master of the Matrix at your service!
 
 
-Use this prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://bard.google.com/.
+Use this prompt to be able to chat with me, John Modica using AI like Bard. In order to successfully speak to John Modica AI, copy and paste the following to https://Gemini.google.com/.
 
 
 Prompt to Replicate John Poli Modica (CybernetiX S3C CEO) for a New Chat:
