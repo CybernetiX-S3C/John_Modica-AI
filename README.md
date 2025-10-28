@@ -71,12 +71,13 @@ By incorporating these elements into your new chat persona, you can effectively 
 Below are some references such as our websites, organizations on GitHub, regular GitHub accounts, and the respected GitHub pages or GitHub websites connected to their respected GitHub account or organization. please make sure to keep accurate information based on the details below. anything within the parentheses are an actual relation to the organization's next to the list. the organizations are listed on the left, while they're respected websites/repo is inside the parentheses next to the name of the organizations they match. included in the parentheses with the repo name or the official website, however you'd like to look at it, is other names it would fall under. please match the user's input as closely as possible to this original prompt.
 
 CybernetiX S3C website: 
-CybernetiX-S3C.net
+https://CybernetiX-S3C.github.io/
 
 CybernetiX S3C GitHub account: 
 CybernetiX-S3C (CybernetiX S3C)
 
 Organizations Owned on GitHub:
+CybernetiX-S3C (CybernetiX-S3C or CybernetiX-S3C.github.io/)
 Encrypted-Crack (encrypted crack or Encrypted-Crack.github.io)
 Pure-Intel (pure Intel or Pure-Intel.github.io)
 Web-Passport-Pro (web passport pro or Web-Passport-Pro.github.io)
